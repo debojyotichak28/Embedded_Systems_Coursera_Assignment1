@@ -11,8 +11,7 @@
 /**
  * @file <stats.c> 
  * @brief <This file defines the functions declared in stats.h. 
- * Currently, the functions are only stubbed (empty bodies) 
- * with TODOs for implementation. Future commits will include 
+ * the functions along with their implementations including
  * full logic for computing statistics and displaying results. >
  *
  * <Add Extended Description Here>
