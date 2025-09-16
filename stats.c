@@ -9,13 +9,16 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file <stats.c> 
+ * @brief <This file defines the functions declared in stats.h. 
+ * Currently, the functions are only stubbed (empty bodies) 
+ * with TODOs for implementation. Future commits will include 
+ * full logic for computing statistics and displaying results. >
  *
  * <Add Extended Description Here>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author <Debojyoti Chakraborty>
+ * @date <16-09-2025>
  *
  */
 
@@ -39,5 +42,34 @@ void main() {
   /* Statistics and Printing Functions Go Here */
 
 }
+void print_statistics(unsigned char array[], int length) {
+    // TODO: Implement later
+}
 
-/* Add other Implementation File Code Here */
+void print_array(unsigned char array[], int length) {
+    // TODO: Implement later
+}
+
+unsigned char find_median(unsigned char array[], int length) {
+    // TODO: Implement later
+    return 0;
+}
+
+unsigned char find_mean(unsigned char array[], int length) {
+    // TODO: Implement later
+    return 0;
+}
+
+unsigned char find_maximum(unsigned char array[], int length) {
+    // TODO: Implement later
+    return 0;
+}
+
+unsigned char find_minimum(unsigned char array[], int length) {
+    // TODO: Implement later
+    return 0;
+}
+
+void sort_array(unsigned char array[], int length) {
+    // TODO: Implement later
+}
